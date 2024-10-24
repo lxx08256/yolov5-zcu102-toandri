@@ -4,3 +4,5 @@ About The Project: Use Vitis AI to deploy yolov5 on ZCU104
 - yolov5 code: https://github.com/ultralytics/yolov5
 - deploy documents: 
 - some helpful post: https://fpga.eetrend.com/blog/2022/100565582.html
+## Trainigng yolov5
+- download yolov5 from https://github.com/ultralytics/yolov5, choose tag v6.0
